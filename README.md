@@ -16,6 +16,6 @@ Learn everything you need to about the subject of this `Conf`.
 
 ## Topics
 
-* [x] [RubyConf 2022: I'm in love with Mermaid by Carolyn Cole](https://www.youtube.com/watch?v=W-UsnbGH2c8&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=55&ab_channel=RubyCentral)
+* [ ] [RubyConf 2022: I'm in love with Mermaid by Carolyn Cole](https://www.youtube.com/watch?v=W-UsnbGH2c8&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=55&ab_channel=RubyCentral)
 
 
