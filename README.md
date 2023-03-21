@@ -24,5 +24,7 @@ Learn everything you need to about the subject of this `Conf`.
 * [x] [RubyConf Mini 2022: Teaching Ruby to Count by Joël Quenneville](https://www.youtube.com/watch?v=PHMOsTK1jSE&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=13&ab_channel=RubyCentral)
 * [x] [RubyConf Mini 2022: Lightning Talks](https://www.youtube.com/watch?v=M5uWyzBgPHs&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=10&ab_channel=RubyCentral)
 * [x] [RubyConf 2022: Ruby Archaeology: Forgotten web frameworks by Nick Schwaderer](https://www.youtube.com/watch?v=XZWQ2MoN6-M&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=43&ab_channel=RubyCentral)
+* [x] [RubyConf 2022: Discover Machine Learning in Ruby by Justin Bowen](https://www.youtube.com/watch?v=XXtqUptI_oQ&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=46&ab_channel=RubyCentral)
+* [ ] [RubyConf 2022: Data indexing with RGB (Ruby, Graphs and Bitmaps) by Benjamin Lewis](https://www.youtube.com/watch?v=WUE_juijO20&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=67&ab_channel=RubyCentral)
 
 
