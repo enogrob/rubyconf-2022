@@ -26,6 +26,6 @@ Learn everything you need to about the subject of this `Conf`.
 * [x] [RubyConf 2022: Ruby Archaeology: Forgotten web frameworks by Nick Schwaderer](https://www.youtube.com/watch?v=XZWQ2MoN6-M&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=43&ab_channel=RubyCentral)
 * [x] [RubyConf 2022: Discover Machine Learning in Ruby by Justin Bowen](https://www.youtube.com/watch?v=XXtqUptI_oQ&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=46&ab_channel=RubyCentral)
 * [x] [RubyConf 2022: Data indexing with RGB (Ruby, Graphs and Bitmaps) by Benjamin Lewis](https://www.youtube.com/watch?v=WUE_juijO20&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=67&ab_channel=RubyCentral)
-* [ ] [RubyConf 2022: Static typing with RBS in Ruby by Gaurav Kumar Singh](https://www.youtube.com/watch?v=sVU5EYriNw4&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=68&ab_channel=RubyCentral)
+* [x] [RubyConf 2022: Static typing with RBS in Ruby by Gaurav Kumar Singh](https://www.youtube.com/watch?v=sVU5EYriNw4&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=68&ab_channel=RubyCentral)
 
 
