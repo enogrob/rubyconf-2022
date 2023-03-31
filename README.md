@@ -30,5 +30,6 @@ Learn everything you need to about the subject of this `Conf`.
 * [x] [RubyConf Mini 2022: A Brewer’s Guide to Filtering out Complexity and Churn by Fito von Zastrow](https://www.youtube.com/watch?v=RJRSosxtzbU&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=12&ab_channel=RubyCentral)
 * [x] [RubyConf 2022: Boot the backlog: Optimizing your workflow for dev happiness by Stacey McKnight](https://www.youtube.com/watch?v=ir8hYLz4Gfg&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=41&ab_channel=RubyCentral)
 * [x] [RubyConf 2022: 1.5 is the Midpoint Between 0 and Infinity by Peter Zhu](https://www.youtube.com/watch?v=3GfBjUFuu_k&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=36&ab_channel=RubyCentral)
+* [ ] [RubyConf 2022: Building Native GUI Apps in Ruby by Andy Maleh](https://www.youtube.com/watch?v=1Bh4CnJqHyY&list=PLbHJudTY1K0dERpqJUEFOFSsMGvR6st9U&index=32&ab_channel=RubyCentral)
 
 
